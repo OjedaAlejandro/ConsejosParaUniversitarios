@@ -2,8 +2,7 @@
 ![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
 
 ## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
-- [URL-de-la-api](URL-de-la-api)
+- [URL-de-este-proyecto](https://consejos-para-universitarios.web.app/)
 
 ## Descripción 📑
 Este proyecto es una pagina web estatica en la cual podras encontrar información sobre como es la vida universitaria y recomendaciones para poder 

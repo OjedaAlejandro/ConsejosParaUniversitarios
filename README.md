@@ -18,7 +18,7 @@ disfrutar esta etapa al maximo.
 ## Autor ✒️
 **Ojeda Alejandro Ezequiel**
 
-* [micorreo](alejandroojeda.desarrolloweb@gmail.com)
+* [micorreo]((https://alejandroojeda.desarrolloweb@gmail.com)
 * [LinkedIn]()
 * [Porfolio web](https://miportafolioweb-e0a04.web.app/)
 

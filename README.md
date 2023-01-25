@@ -1,5 +1,5 @@
 # Consejos para Universitarios
-![Imagen del proyecto](https://github.com/OjedaAlejandro/ConsejosParaUniversitarios/blob/3700775e5c1723477491f64ff753e6c90dea494d/assets/persona-estudiando-y-repasando-un-libro-62f1fc7c0f414.jpg)
+![Imagen del proyecto](https://github.com/OjedaAlejandro/ConsejosParaUniversitarios/blob/907e8afb091fd2b3ad6cdff63b4e1148bc17265e/assets/pagina%20consejos%20para%20universitarios.png)
 
 ## Ejemplo en vivo
 - [URL-de-este-proyecto]()

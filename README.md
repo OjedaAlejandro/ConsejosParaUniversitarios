@@ -2,7 +2,7 @@
 ![Imagen del proyecto](https://github.com/OjedaAlejandro/ConsejosParaUniversitarios/blob/907e8afb091fd2b3ad6cdff63b4e1148bc17265e/assets/pagina%20consejos%20para%20universitarios.png)
 
 ## Ejemplo en vivo
-- [URL-de-este-proyecto]()
+- [URL-de-este-proyecto](https://consejos-para-universitarios.web.app/)
 
 ## Descripción 📑
 Este proyecto es una pagina web estatica en la cual podras encontrar información sobre como es la vida universitaria y recomendaciones para poder 

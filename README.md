@@ -1,5 +1,5 @@
 # Consejos para Universitarios
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/OjedaAlejandro/ConsejosParaUniversitarios/blob/3700775e5c1723477491f64ff753e6c90dea494d/assets/persona-estudiando-y-repasando-un-libro-62f1fc7c0f414.jpg)
 
 ## Ejemplo en vivo
 - [URL-de-este-proyecto]()

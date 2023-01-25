@@ -1,8 +1,8 @@
 # Consejos para Universitarios
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](assets/Estudiante universitario.jpg) 
 
 ## Ejemplo en vivo
-- [URL-de-este-proyecto](assets/Estudiante universitario.jpg)
+- [URL-de-este-proyecto]()
 
 ## Descripción 📑
 Este proyecto es una pagina web estatica en la cual podras encontrar información sobre como es la vida universitaria y recomendaciones para poder 
